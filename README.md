@@ -30,7 +30,7 @@ Example
 
 `python3 shodork.py -f dorks.txt`
 
-# Acknowledgments
+# Acknowledgements
 
 Shodan for providing the API used in this tool.
 
