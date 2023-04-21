@@ -32,6 +32,6 @@ Example
 
 # Acknowledgements
 
-Shodan for providing the API used in this tool.
+[Shodan](https://www.shodan.io/) for providing the API used in this tool.
 
 Feel free to modify and distribute this tool as you wish. If you find any bugs or have suggestions for improvement, please create an issue on this repository.
